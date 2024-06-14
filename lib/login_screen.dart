@@ -40,6 +40,7 @@ class _LoginScreenState extends State<LoginScreen> {
           child: Center(
             child: Column(
               children: [
+                Text("No branch created"),
                 SizedBox(
                     height: 70.w,
                     width: 70.w,
