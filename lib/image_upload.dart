@@ -38,7 +38,7 @@ class _ImageUploadScrenState extends State<ImageUploadScren> {
               SizedBox(height: 2.h),
               DottedBorder(
                   color: Colors.black.withOpacity(0.3),
-                  dashPattern: const[8, 4],
+                  dashPattern: const [8, 4],
                   child: image != null
                       ? showImage
                           ? Container(
@@ -85,7 +85,7 @@ class _ImageUploadScrenState extends State<ImageUploadScren> {
                       height: 5.5.h,
                       borderRadius: 2.w,
                       color: const Color(0xffD3D3D6),
-                      label: "View",
+                      label: "Viewwww",
                       onPressed: () {
                         setState(() {
                           showImage = true;
