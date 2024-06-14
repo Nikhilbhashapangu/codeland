@@ -40,6 +40,7 @@ class _LoginScreenState extends State<LoginScreen> {
           child: Center(
             child: Column(
               children: [
+                Text("Nikhil Branch Created, Local Nikhil Commit"),
                 Text("No branch created"),
                 SizedBox(
                     height: 70.w,
